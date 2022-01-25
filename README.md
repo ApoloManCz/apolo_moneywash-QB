@@ -11,3 +11,5 @@ Just upload it on your server and start it!
 
 Enjoy!
 Report any issues here or on my discord!
+
+# Failed to load shared.lua FIX
