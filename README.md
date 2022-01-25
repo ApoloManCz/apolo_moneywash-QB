@@ -1,15 +1,16 @@
 # Wash Marked Money for QBCore Framework
 
-# Discord 
+# DISCORD 
 https://discord.gg/rMUrXfgqec
 
 # Dependencies
 - QBCore
 
-# Installation
+# Instalation
 Just upload it on your server and start it!
 
 Enjoy!
 Report any issues here or on my discord!
 
-# Failed to load shared.lua FIX
+# PREVIEW
+https://streamable.com/fa6f8c
