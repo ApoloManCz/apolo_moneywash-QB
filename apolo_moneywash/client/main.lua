@@ -49,7 +49,7 @@ end)
 
 RegisterNetEvent('apolo_moneywash:client:WashProggress')
 AddEventHandler('apolo_moneywash:client:WashProggress', function(source)
-    QBCore.Functions.Progressbar("wash_money", "Washing Money...", math.random(50000,70000), false, true, {
+    QBCore.Functions.Progressbar("wash_money", "Washing Money...", math.random(8000,10000), false, true, {
         disableMovement = true,
         disableCarMovement = true,
         disableMouse = false,
