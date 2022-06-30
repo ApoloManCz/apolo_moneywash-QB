@@ -34,6 +34,7 @@ end
 end)
 
 
+
 RegisterServerEvent('apolo_moneywash:server:checkmoney')
 AddEventHandler('apolo_moneywash:server:checkmoney', function()
     local src = source
