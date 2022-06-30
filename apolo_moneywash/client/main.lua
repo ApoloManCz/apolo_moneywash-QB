@@ -30,9 +30,10 @@ Citizen.CreateThread(function()
         if distance < 8 then
             inRange = true
 
-            if distance < 3 then
+            if distance < 8 then
                 Text3D(1135.92, -989.49, 46.11, "[G] Wash Money")
  --               Text3D(1135.92, -989.49, 46.11, '<FONT FACE="Fira Sans">~g~[G]~w~ Wash Money')
+                DrawMarker(27, 1135.92, -989.49, 45.14, 0, 0, 0, 0, 0, 0, 1.0, 1.0, 1.0, 255, 0, 0, 100, false, true, 0, true)
                 if IsControlJustPressed(0, 47) then
 				TriggerServerEvent("apolo_moneywash:server:checkmoney")
                 end
