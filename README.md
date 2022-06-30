@@ -1,5 +1,9 @@
 # Wash Marked Money for QBCore Framework
 
+
+# !! 30.06.2022 UPDATED for new QB-CORE !!
+
+
 # DISCORD 
 https://discord.gg/rMUrXfgqec
 
